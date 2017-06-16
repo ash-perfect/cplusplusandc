@@ -4,7 +4,7 @@
  *  Created on: Jun 16, 2017
  *      Author: lexi
  */
-
+//Hey I am better stack :D. Less compilation time compared to stack.h
 #ifndef BSTACK_H_
 #define BSTACK_H_
 
